@@ -1,2 +1,2 @@
-# What-Is-Your-Name-This-Year
-A simple program that uses your name and the year you were born to determine which names this year have the same popularity rank as your name did the year you were born.
+# What's Your Name This Year?
+This program uses your name and the year year you were born to determine which names have the same popularity rank this year as your name did the year you were born. To put it another way, what name is more popular this year than it was the year you were born? Any name can be used to answer this question. So you can use a friend's name, a favorite singer's name, or anyone else's name. For example, it provides an answer to the following question: What would your name be today if you were John in 1994? It makes use of publicly available census databases from the U.S. government.
