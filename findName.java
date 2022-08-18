@@ -1,13 +1,4 @@
-
-/**
- * Print out total number of babies born, as well as for each gender, in a given CSV file of baby name data.
- * 
- * @author Duke Software Team 
- */
 import duke.*;
-
-import java.io.File;
-
 import csv.*;
 
 public class findName {
@@ -64,6 +55,6 @@ public class findName {
 		for (int i = 0; i < 100; i++) {
 			System.out.println("");
 		}
-		System.out.println("Your name would be: " + whatIsNameInYear("Owen", 1974, 2014, "M"));
+		System.out.println("Your name would be: " + whatIsNameInYear("Piyush", 2007, 2010, "M"));
 	}
 }
